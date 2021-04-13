@@ -23,4 +23,4 @@ add $4, %EBX
 jmp w
 end:
 nop
-#EDX = value, ESI = index
+#EDX = number, ESI = index

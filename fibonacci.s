@@ -1,7 +1,6 @@
 .global _start
 .text
 _start:
-
 mov $8, %EAX #index
 mov $1, %EBX
 mov $2, %ECX

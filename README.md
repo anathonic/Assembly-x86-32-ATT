@@ -17,4 +17,3 @@ ld -m elf_i386 filename.o
 **to get gdb on Linux:**
 <br />
 sudo apt install gdb
-
